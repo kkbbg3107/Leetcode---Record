@@ -12,7 +12,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/1)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/linooohon/leeetcode-python/issues/15)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/2)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/linooohon/leeetcode-python/issues/33)|Medium|
 |8待解決|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/linooohon/leeetcode-python/issues/73)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/linooohon/leeetcode-python/issues/57)|Easy|
