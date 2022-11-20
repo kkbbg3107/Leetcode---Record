@@ -14,6 +14,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/1)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/climbing-stairs/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/2)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/9)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/solutions/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/9)|Easy|
 |155|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
