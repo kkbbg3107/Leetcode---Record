@@ -23,6 +23,7 @@ LeetCode
 |179|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/14)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
+|234|[Rectangle Area](https://leetcode.com/problems/palindrome-linked-list/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/15)|Easy|
 |263|[uglu number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/8)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 
