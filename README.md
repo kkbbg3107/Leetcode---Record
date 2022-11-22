@@ -18,8 +18,9 @@ LeetCode
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/11)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/12)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/13)|Medium|
-|155|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
+|155|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
+|179|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/14)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |263|[uglu number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/8)|Easy|
