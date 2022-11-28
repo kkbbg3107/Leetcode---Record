@@ -26,6 +26,7 @@ LeetCode
 |234|[Rectangle Area](https://leetcode.com/problems/palindrome-linked-list/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/15)|Easy|
 |263|[uglu number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/8)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
+|2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/16)|Medium|
 
 
 
