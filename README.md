@@ -26,6 +26,7 @@ LeetCode
 |179|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/14)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/25)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/19)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/26)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/21)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
