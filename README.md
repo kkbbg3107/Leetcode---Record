@@ -37,6 +37,7 @@ LeetCode
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/17)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/20)|Medium|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/28)|Medium|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/16)|Medium|
 
 
