@@ -13,6 +13,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/1)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/37)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/40)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/climbing-stairs/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/2)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/35)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/34)|Medium|
