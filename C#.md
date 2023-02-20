@@ -29,6 +29,7 @@ LeetCode
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/33)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/13)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/41)|Medium|
 |155|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/3)|Medium|
 |179|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/14)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/25)|Medium|
