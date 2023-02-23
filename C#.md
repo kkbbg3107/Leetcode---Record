@@ -19,6 +19,7 @@ LeetCode
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/34)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/39)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/24)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/43)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/22)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/29)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/9)|Easy|
