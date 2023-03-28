@@ -22,6 +22,7 @@ LeetCode
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/43)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/22)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/29)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/44)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/9)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/18)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/solutions/) | [C#](https://github.com/kkbbg3107/Leetcode---Record/issues/10)|Easy|
